@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, ML/DL, SQL, Data Analysis, UI|UX, aweb design, IT Technical Support, IT Project Manager
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (May 2022)								       		
-- M.S., Physics	| The University of Texas at Dallas (December 2019)	 			        		
-- B.S., Physics | The University of Texas at Dallas (May 2017)
+## Education								       		
+- MSc., Computer Science | Federal University Oye-Ekiti, Ekiti State NG. (2024)	 			        		
+- BSc., Computer Science | Federal University Oye-Ekiti, Ekiti State NG. (2021)
+- OND., Computer Science | D.S. Adegbenro ICT Polytechnic, Ogun State NG. (2016)
 
 ## Work Experience
 *Data Scientist @ Toyota Financial Services (June 2022 - Present)*
