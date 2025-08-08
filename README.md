@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, ML/DL, SQL, Data Analysis, UI|UX, aweb design, IT Technical Support, IT Project Manager
+#### Technical Skills: Python, ML/DL, SQL, Data Analysis, UI|UX, Web design, IT Technical Support, IT Project Manager
 
 ## Education								       		
 - MSc., Computer Science | Federal University Oye-Ekiti, Ekiti State NG. (2024)	 			        		
