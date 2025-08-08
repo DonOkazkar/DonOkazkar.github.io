@@ -1,4 +1,4 @@
-# Data Scientist
+# Researcher|Machine Learning|AI Enthusiast|Data Analysis|IT Project Manager|Product Designer
 
 #### Technical Skills: Python, ML/DL, SQL, Data Analysis, UI|UX, Web design, IT Technical Support, IT Project Manager
 
